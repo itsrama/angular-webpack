@@ -1,0 +1,27 @@
+#############
+## Main
+#############
+node_modules
+npm-debug.log
+docs
+tmp
+
+.coverage
+coverage
+www/build
+typings
+artifacts
+dist
+
+#############
+## IDE
+#############
+.idea
+.project
+.settings
+
+#############
+## OSX
+#############
+.DS_Store
+**/.DS_Store
